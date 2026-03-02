@@ -30,7 +30,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 237
+    "downloadCount": 238
   },
   {
     "id": "AircraftWaypoints",
@@ -94,7 +94,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 572
+    "downloadCount": 574
   },
   {
     "id": "BepInEx.ConfigurationManager",
@@ -167,7 +167,7 @@
         "downloadUrl": "https://github.com/9138noms/FrontlineMap/releases/download/v1.2.1/FrontlineMap.dll"
       }
     ],
-    "downloadCount": 184
+    "downloadCount": 188
   },
   {
     "id": "galaxy2_voice",
@@ -335,7 +335,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 644
+    "downloadCount": 647
   },
   {
     "id": "LiveryManager",
@@ -1120,7 +1120,7 @@
         "downloadUrl": "https://github.com/9138noms/NuclearOption-MFDVideoPlayer/releases/download/v2.0.0/MFDVideoPlayer.dll"
       }
     ],
-    "downloadCount": 80
+    "downloadCount": 81
   },
   {
     "id": "NO_Tactitools",
@@ -1143,6 +1143,25 @@
     "githubRepoName": "NO_Tactitools",
     "autoUpdateArtifacts": "True",
     "artifacts": [
+      {
+        "fileName": "NOTT_PR_0.7.0.2.zip",
+        "version": "0.7.0.2",
+        "category": "preRelease",
+        "type": "plugin",
+        "gameVersion": "0.32",
+        "downloadUrl": "https://github.com/clumzy/NO_Tactitools/releases/download/0.7.0.2/NOTT_PR_0.7.0.2.zip",
+        "hash": null,
+        "dependencies": [
+          {
+            "id": "no-autopilot-mod",
+            "version": "4.17.3"
+          },
+          {
+            "id": "BepInEx.ConfigurationManager",
+            "version": "18.4.1"
+          }
+        ]
+      },
       {
         "fileName": "NOTT_PR_0.7.0.1.zip",
         "version": "0.7.0.1",
@@ -1220,7 +1239,7 @@
         ]
       }
     ],
-    "downloadCount": 3526
+    "downloadCount": 3538
   },
   {
     "id": "no-autopilot-mod",
@@ -1243,6 +1262,21 @@
     "githubRepoName": "no-autopilot-mod",
     "autoUpdateArtifacts": "True",
     "artifacts": [
+      {
+        "fileName": "com.qwerty1423.NOAutopilot-4.17.3.7z",
+        "version": "4.17.3",
+        "category": "preRelease",
+        "type": "plugin",
+        "gameVersion": "0.32",
+        "downloadUrl": "https://github.com/qwerty1423/no-autopilot-mod/releases/download/v4.17.3/com.qwerty1423.NOAutopilot-4.17.3.7z",
+        "hash": null,
+        "dependencies": [
+          {
+            "id": "BepInEx.ConfigurationManager",
+            "version": "18.4.1"
+          }
+        ]
+      },
       {
         "fileName": "com.qwerty1423.NOAutopilot-4.17.2.7z",
         "version": "4.17.2",
@@ -1430,7 +1464,7 @@
         "hash": "sha256:f526584e61ed46c25d10a0b46319f9e901fc5917d73dfcccc3aebb5ee0acaa5c"
       }
     ],
-    "downloadCount": 2479
+    "downloadCount": 2514
   },
   {
     "id": "NOBlackBox",
@@ -1570,7 +1604,7 @@
         ]
       }
     ],
-    "downloadCount": 134
+    "downloadCount": 135
   },
   {
     "id": "NOFrameLimiter",
@@ -1684,7 +1718,7 @@
         "hash": "sha256:d5097c29370682ad2e02ce56baf73de184d9afa2a3ebab8b9116b3bdf2058b3d"
       }
     ],
-    "downloadCount": 128
+    "downloadCount": 129
   },
   {
     "id": "NOX",
@@ -1798,7 +1832,7 @@
         ]
       }
     ],
-    "downloadCount": 993
+    "downloadCount": 995
   },
   {
     "id": "Nuclear-Option-Mod-WingmanVisual",
@@ -1849,7 +1883,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 433
+    "downloadCount": 434
   },
   {
     "id": "pixy_voice",
@@ -1948,7 +1982,7 @@
         "downloadUrl": "https://github.com/9138noms/NuclearOption-RepairProgress/releases/download/v1.0.0/RepairProgress.zip"
       }
     ],
-    "downloadCount": 130
+    "downloadCount": 131
   },
   {
     "id": "RuntimeUnityEditor",
@@ -1981,7 +2015,7 @@
         "hash": "sha256:28596c0f68258f3e4d024c0ed89c8b5653fd86b1e619f945f9f7080ee6859734"
       }
     ],
-    "downloadCount": 116570
+    "downloadCount": 116577
   },
   {
     "id": "skyeye_voice",
@@ -2047,7 +2081,7 @@
         "downloadUrl": "https://github.com/9138noms/NuclearOption-SmokeTrail/releases/download/v2.1.0/SmokeTrail.dll"
       }
     ],
-    "downloadCount": 46
+    "downloadCount": 48
   },
   {
     "id": "UnitCopyPaste",
@@ -2087,7 +2121,7 @@
         "downloadUrl": "https://github.com/9138noms/UnitCopyPaste/releases/download/v1.0.0/UnitCopyPaste.dll"
       }
     ],
-    "downloadCount": 17
+    "downloadCount": 18
   },
   {
     "id": "VehicleControl",
@@ -2118,7 +2152,7 @@
         "downloadUrl": "https://github.com/9138noms/NuclearOption-VehicleControl/releases/download/v2.3.2/VehicleControl.zip"
       }
     ],
-    "downloadCount": 351
+    "downloadCount": 353
   },
   {
     "id": "WeatherController",
@@ -2149,7 +2183,7 @@
         "downloadUrl": "https://github.com/9138noms/NuclearOption-WeatherController/releases/download/v3.0.0/WeatherController_v3.0.0.zip"
       }
     ],
-    "downloadCount": 36
+    "downloadCount": 37
   },
   {
     "id": "WSOYappinator",
@@ -2182,7 +2216,7 @@
         "hash": "sha256:c5acfa50210aca58ff226b9a07c82f11aed14553c97a31b8d5042862ab0ee1eb"
       }
     ],
-    "downloadCount": 740
+    "downloadCount": 741
   },
   {
     "id": "YawOnMouse",
@@ -2232,6 +2266,6 @@
         "hash": null
       }
     ],
-    "downloadCount": 290
+    "downloadCount": 291
   }
 ]
