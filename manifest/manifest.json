@@ -167,7 +167,7 @@
         "downloadUrl": "https://github.com/9138noms/FrontlineMap/releases/download/v1.2.1/FrontlineMap.dll"
       }
     ],
-    "downloadCount": 269
+    "downloadCount": 270
   },
   {
     "id": "galaxy2_voice",
@@ -1258,7 +1258,7 @@
         ]
       }
     ],
-    "downloadCount": 3792
+    "downloadCount": 3794
   },
   {
     "id": "no-autopilot-mod",
@@ -1498,7 +1498,7 @@
         "hash": "sha256:f526584e61ed46c25d10a0b46319f9e901fc5917d73dfcccc3aebb5ee0acaa5c"
       }
     ],
-    "downloadCount": 2661
+    "downloadCount": 2664
   },
   {
     "id": "NOBlackBox",
@@ -1552,7 +1552,7 @@
         ]
       }
     ],
-    "downloadCount": 1983
+    "downloadCount": 1985
   },
   {
     "id": "NOCursorOverride",
@@ -2049,7 +2049,7 @@
         "hash": "sha256:28596c0f68258f3e4d024c0ed89c8b5653fd86b1e619f945f9f7080ee6859734"
       }
     ],
-    "downloadCount": 116686
+    "downloadCount": 116688
   },
   {
     "id": "skyeye_voice",
