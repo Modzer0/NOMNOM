@@ -62,7 +62,7 @@
         "downloadUrl": "https://github.com/9138noms/NuclearOption-AircraftWaypoints/releases/download/v2.1.0/AircraftWaypoints.zip"
       }
     ],
-    "downloadCount": 103
+    "downloadCount": 104
   },
   {
     "id": "bepinex-soundmod",
@@ -94,7 +94,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 624
+    "downloadCount": 625
   },
   {
     "id": "BepInEx.ConfigurationManager",
@@ -1089,7 +1089,7 @@
         "downloadUrl": "https://github.com/9138noms/NuclearOption-CustomMapLoader/releases/download/v3.0.0/MapLoader_v3.0.0.zip"
       }
     ],
-    "downloadCount": 54
+    "downloadCount": 55
   },
   {
     "id": "MFDVideoPlayer",
@@ -1498,7 +1498,7 @@
         "hash": "sha256:f526584e61ed46c25d10a0b46319f9e901fc5917d73dfcccc3aebb5ee0acaa5c"
       }
     ],
-    "downloadCount": 2759
+    "downloadCount": 2762
   },
   {
     "id": "NOBlackBox",
@@ -1552,7 +1552,7 @@
         ]
       }
     ],
-    "downloadCount": 2006
+    "downloadCount": 2009
   },
   {
     "id": "NOCursorOverride",
@@ -1677,7 +1677,7 @@
         ]
       }
     ],
-    "downloadCount": 480
+    "downloadCount": 482
   },
   {
     "id": "NOLiveryPlus",
@@ -1866,7 +1866,7 @@
         ]
       }
     ],
-    "downloadCount": 1116
+    "downloadCount": 1118
   },
   {
     "id": "Nuclear-Option-Mod-WingmanVisual",
@@ -1917,7 +1917,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 463
+    "downloadCount": 464
   },
   {
     "id": "pixy_voice",
@@ -2049,7 +2049,7 @@
         "hash": "sha256:28596c0f68258f3e4d024c0ed89c8b5653fd86b1e619f945f9f7080ee6859734"
       }
     ],
-    "downloadCount": 116738
+    "downloadCount": 116739
   },
   {
     "id": "skyeye_voice",
@@ -2250,7 +2250,7 @@
         "hash": "sha256:c5acfa50210aca58ff226b9a07c82f11aed14553c97a31b8d5042862ab0ee1eb"
       }
     ],
-    "downloadCount": 778
+    "downloadCount": 779
   },
   {
     "id": "YawOnMouse",
