@@ -1,0 +1,43 @@
+{
+  "id": "NuclearVOIP",
+  "displayName": "NuclearVOIP",
+  "description": "Adds in game voice chat to Nuclear Option",
+  "tags": [
+    "mod",
+    "QoL",
+    "multiplayer"
+  ],
+  "urls": [
+    {
+      "name": "info",
+      "url": "https://github.com/TYKUHN2/NuclearVOIP"
+    },
+    {
+      "name": "bugs",
+      "url": "https://github.com/TYKUHN2/NuclearVOIP/issues"
+    }
+  ],
+  "authors": [
+    "TYKUHN2"
+  ],
+  "githubOwner": "TYKUHN2",
+  "githubRepoName": "NuclearVOIP",
+  "autoUpdateArtifacts": "False",
+  "artifacts": [
+    {
+      "fileName": "NuclearVOIP-NOMNOM.7z",
+      "version": "0.5.0",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.32.6",
+      "downloadUrl": "https://github.com/TYKUHN2/NuclearVOIP/releases/download/v0.5.0/NuclearVOIP-NOMNOM.7z",
+      "hash": null,
+	  "dependencies": [
+		{
+			"id": "AtomicFramework",
+			"version": "0.2.0"
+		}
+	  ]
+    }
+  ]
+}
