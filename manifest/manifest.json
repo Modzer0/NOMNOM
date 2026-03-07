@@ -30,7 +30,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 323
+    "downloadCount": 324
   },
   {
     "id": "AircraftWaypoints",
@@ -208,7 +208,7 @@
         "downloadUrl": "https://github.com/9138noms/FrontlineMap/releases/download/v1.2.1/FrontlineMap.dll"
       }
     ],
-    "downloadCount": 357
+    "downloadCount": 358
   },
   {
     "id": "galaxy2_voice",
@@ -1299,7 +1299,7 @@
         ]
       }
     ],
-    "downloadCount": 3968
+    "downloadCount": 3971
   },
   {
     "id": "no-autopilot-mod",
@@ -1539,7 +1539,7 @@
         "hash": "sha256:f526584e61ed46c25d10a0b46319f9e901fc5917d73dfcccc3aebb5ee0acaa5c"
       }
     ],
-    "downloadCount": 2816
+    "downloadCount": 2817
   },
   {
     "id": "NOBlackBox",
@@ -1958,7 +1958,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 474
+    "downloadCount": 475
   },
   {
     "id": "NuclearVOIP",
@@ -2238,7 +2238,7 @@
         "downloadUrl": "https://github.com/9138noms/NuclearOption-SmokeTrail/releases/download/v2.1.0/SmokeTrail.dll"
       }
     ],
-    "downloadCount": 69
+    "downloadCount": 70
   },
   {
     "id": "UnitCopyPaste",
