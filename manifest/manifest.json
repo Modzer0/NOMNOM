@@ -30,7 +30,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 371
+    "downloadCount": 372
   },
   {
     "id": "AircraftWaypoints",
@@ -376,7 +376,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 778
+    "downloadCount": 780
   },
   {
     "id": "LiveryManager",
@@ -1299,7 +1299,7 @@
         ]
       }
     ],
-    "downloadCount": 4145
+    "downloadCount": 4146
   },
   {
     "id": "no-autopilot-mod",
@@ -1907,7 +1907,7 @@
         ]
       }
     ],
-    "downloadCount": 1215
+    "downloadCount": 1217
   },
   {
     "id": "Nuclear-Option-Mod-WingmanVisual",
@@ -2108,7 +2108,7 @@
         ]
       }
     ],
-    "downloadCount": 170
+    "downloadCount": 172
   },
   {
     "id": "RepairProgress",
@@ -2139,7 +2139,7 @@
         "downloadUrl": "https://github.com/9138noms/NuclearOption-RepairProgress/releases/download/v1.0.0/RepairProgress.zip"
       }
     ],
-    "downloadCount": 259
+    "downloadCount": 260
   },
   {
     "id": "RuntimeUnityEditor",
@@ -2309,7 +2309,7 @@
         "downloadUrl": "https://github.com/9138noms/NuclearOption-VehicleControl/releases/download/v2.3.2/VehicleControl.zip"
       }
     ],
-    "downloadCount": 539
+    "downloadCount": 540
   },
   {
     "id": "WeatherController",
