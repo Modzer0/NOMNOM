@@ -208,7 +208,7 @@
         "downloadUrl": "https://github.com/9138noms/FrontlineMap/releases/download/v1.2.1/FrontlineMap.dll"
       }
     ],
-    "downloadCount": 464
+    "downloadCount": 465
   },
   {
     "id": "galaxy2_voice",
@@ -376,7 +376,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 782
+    "downloadCount": 783
   },
   {
     "id": "LiveryManager",
@@ -1907,7 +1907,7 @@
         ]
       }
     ],
-    "downloadCount": 1218
+    "downloadCount": 1219
   },
   {
     "id": "Nuclear-Option-Mod-WingmanVisual",
@@ -2172,7 +2172,7 @@
         "hash": "sha256:28596c0f68258f3e4d024c0ed89c8b5653fd86b1e619f945f9f7080ee6859734"
       }
     ],
-    "downloadCount": 116921
+    "downloadCount": 116924
   },
   {
     "id": "skyeye_voice",
@@ -2238,7 +2238,7 @@
         "downloadUrl": "https://github.com/9138noms/NuclearOption-SmokeTrail/releases/download/v2.1.0/SmokeTrail.dll"
       }
     ],
-    "downloadCount": 82
+    "downloadCount": 83
   },
   {
     "id": "UnitCopyPaste",
@@ -2309,7 +2309,7 @@
         "downloadUrl": "https://github.com/9138noms/NuclearOption-VehicleControl/releases/download/v2.3.2/VehicleControl.zip"
       }
     ],
-    "downloadCount": 542
+    "downloadCount": 543
   },
   {
     "id": "WeatherController",
@@ -2340,7 +2340,7 @@
         "downloadUrl": "https://github.com/9138noms/NuclearOption-WeatherController/releases/download/v3.0.0/WeatherController_v3.0.0.zip"
       }
     ],
-    "downloadCount": 98
+    "downloadCount": 99
   },
   {
     "id": "WSOYappinator",
