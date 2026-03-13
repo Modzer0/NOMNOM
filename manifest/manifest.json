@@ -1461,7 +1461,7 @@
         ]
       }
     ],
-    "downloadCount": 4252
+    "downloadCount": 4253
   },
   {
     "id": "no-autopilot-mod",
@@ -1701,7 +1701,7 @@
         "hash": "sha256:f526584e61ed46c25d10a0b46319f9e901fc5917d73dfcccc3aebb5ee0acaa5c"
       }
     ],
-    "downloadCount": 3062
+    "downloadCount": 3063
   },
   {
     "id": "NOBlackBox",
@@ -1841,7 +1841,7 @@
         ]
       }
     ],
-    "downloadCount": 163
+    "downloadCount": 164
   },
   {
     "id": "NOFrameLimiter",
@@ -2439,7 +2439,7 @@
         "downloadUrl": "https://github.com/9138noms/ThirdFaction/releases/download/v1.0.0/ThirdFaction.dll"
       }
     ],
-    "downloadCount": 44
+    "downloadCount": 45
   },
   {
     "id": "UnitCopyPaste",
