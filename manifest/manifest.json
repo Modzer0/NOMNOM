@@ -30,7 +30,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 415
+    "downloadCount": 416
   },
   {
     "id": "AircraftWaypoints",
@@ -208,7 +208,7 @@
         "downloadUrl": "https://github.com/9138noms/FrontlineMap/releases/download/v1.2.1/FrontlineMap.dll"
       }
     ],
-    "downloadCount": 541
+    "downloadCount": 542
   },
   {
     "id": "galaxy2_voice",
@@ -376,7 +376,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 830
+    "downloadCount": 831
   },
   {
     "id": "LiveryManager",
@@ -1971,7 +1971,7 @@
         "hash": "sha256:f526584e61ed46c25d10a0b46319f9e901fc5917d73dfcccc3aebb5ee0acaa5c"
       }
     ],
-    "downloadCount": 3102
+    "downloadCount": 3103
   },
   {
     "id": "NOBlackBox",
@@ -2540,7 +2540,7 @@
         ]
       }
     ],
-    "downloadCount": 287
+    "downloadCount": 290
   },
   {
     "id": "RepairProgress",
@@ -2571,7 +2571,7 @@
         "downloadUrl": "https://github.com/9138noms/NuclearOption-RepairProgress/releases/download/v1.0.0/RepairProgress.zip"
       }
     ],
-    "downloadCount": 298
+    "downloadCount": 299
   },
   {
     "id": "RuntimeUnityEditor",
@@ -2709,7 +2709,7 @@
         "downloadUrl": "https://github.com/9138noms/ThirdFaction/releases/download/v1.0.0/ThirdFaction.dll"
       }
     ],
-    "downloadCount": 54
+    "downloadCount": 55
   },
   {
     "id": "UnitCopyPaste",
