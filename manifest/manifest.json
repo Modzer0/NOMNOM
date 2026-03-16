@@ -208,7 +208,7 @@
         "downloadUrl": "https://github.com/9138noms/FrontlineMap/releases/download/v1.2.1/FrontlineMap.dll"
       }
     ],
-    "downloadCount": 548
+    "downloadCount": 549
   },
   {
     "id": "galaxy2_voice",
@@ -1728,7 +1728,7 @@
         "downloadUrl": "https://github.com/9138noms/NuclearOption-MFDVideoPlayer/releases/download/v2.0.0/MFDVideoPlayer.dll"
       }
     ],
-    "downloadCount": 175
+    "downloadCount": 176
   },
   {
     "id": "NO_Tactitools",
@@ -1866,7 +1866,7 @@
         ]
       }
     ],
-    "downloadCount": 4316
+    "downloadCount": 4317
   },
   {
     "id": "no-autopilot-mod",
@@ -2106,7 +2106,7 @@
         "hash": "sha256:f526584e61ed46c25d10a0b46319f9e901fc5917d73dfcccc3aebb5ee0acaa5c"
       }
     ],
-    "downloadCount": 3114
+    "downloadCount": 3116
   },
   {
     "id": "NOBlackBox",
@@ -2474,7 +2474,7 @@
         ]
       }
     ],
-    "downloadCount": 1285
+    "downloadCount": 1286
   },
   {
     "id": "Nuclear-Option-Mod-WingmanVisual",
@@ -2675,7 +2675,7 @@
         ]
       }
     ],
-    "downloadCount": 299
+    "downloadCount": 301
   },
   {
     "id": "RepairProgress",
@@ -2706,7 +2706,7 @@
         "downloadUrl": "https://github.com/9138noms/NuclearOption-RepairProgress/releases/download/v1.0.0/RepairProgress.zip"
       }
     ],
-    "downloadCount": 301
+    "downloadCount": 302
   },
   {
     "id": "RuntimeUnityEditor",
@@ -2739,7 +2739,7 @@
         "hash": "sha256:28596c0f68258f3e4d024c0ed89c8b5653fd86b1e619f945f9f7080ee6859734"
       }
     ],
-    "downloadCount": 117021
+    "downloadCount": 117022
   },
   {
     "id": "skyeye_voice",
@@ -2844,7 +2844,7 @@
         "downloadUrl": "https://github.com/9138noms/ThirdFaction/releases/download/v1.0.0/ThirdFaction.dll"
       }
     ],
-    "downloadCount": 59
+    "downloadCount": 60
   },
   {
     "id": "UnitCopyPaste",
@@ -2915,7 +2915,7 @@
         "downloadUrl": "https://github.com/9138noms/NuclearOption-VehicleControl/releases/download/v2.3.2/VehicleControl.zip"
       }
     ],
-    "downloadCount": 612
+    "downloadCount": 614
   },
   {
     "id": "WeatherController",
