@@ -171,6 +171,93 @@
     "downloadCount": 1277950
   },
   {
+    "id": "blueprinter.kestrel",
+    "displayName": "FQ-106 Kestrel",
+    "description": "A light combat drone with superb kinematics. Features a custom model with unique flight performance and destruction, a custom MFD and damage display, 7 liveries, no G-loc, and self-destruction when the eject key is pressed.",
+    "tags": [
+      "mod",
+      "aircraft"
+    ],
+    "urls": [
+      {
+        "name": "info",
+        "url": "https://github.com/nikkorap/NOBlueprinter-Releases/blob/main/README.md"
+      },
+      {
+        "name": "2082 discord",
+        "url": "https://discord.gg/qqMwyr2qxR"
+      }
+    ],
+    "authors": [
+      "nikkorap",
+      "offiry"
+    ],
+    "githubOwner": "nikkorap",
+    "githubRepoName": "NOBlueprinter-Releases",
+    "autoUpdateArtifacts": "True",
+    "artifacts": [
+      {
+        "fileName": "FQ-106_2.1.0.dll",
+        "version": "2.1.0",
+        "category": "release",
+        "type": "addon",
+        "gameVersion": "0.32",
+        "downloadUrl": "https://github.com/nikkorap/NOKestrel/releases/download/2.1.0/FQ-106_2.1.0.dll",
+        "hash": "sha256:c5acfa50210aca58ff226b9a07c82f11aed14553c97a31b8d5042862ab0ee1eb",
+        "extends": {
+          "id": "com.nikkorap.blueprinter",
+          "version": "1.8.16"
+        }
+      }
+    ],
+    "downloadCount": 125
+  },
+  {
+    "id": "com.nikkorap.blueprinter",
+    "displayName": "Blueprinter",
+    "description": "Core framework required for mods utilising blueprinter.",
+    "tags": [
+      "mod"
+    ],
+    "urls": [
+      {
+        "name": "info",
+        "url": "https://github.com/nikkorap/NOBlueprinter-Releases/blob/main/README.md"
+      },
+      {
+        "name": "2082 discord",
+        "url": "https://discord.gg/qqMwyr2qxR"
+      }
+    ],
+    "authors": [
+      "nikkorap"
+    ],
+    "githubOwner": "nikkorap",
+    "githubRepoName": "NOBlueprinter-Releases",
+    "autoUpdateArtifacts": "True",
+    "artifacts": [
+      {
+        "fileName": "Blueprinter_1.8.16.dll",
+        "version": "1.8.16",
+        "category": "release",
+        "type": "plugin",
+        "gameVersion": "0.32",
+        "downloadUrl": "https://github.com/nikkorap/NOBlueprinter-Releases/releases/download/1.8.16/Blueprinter_1.8.16.dll",
+        "hash": null
+      },
+      {
+        "fileName": "Blueprinter_1.8.16.dll",
+        "version": "1.8.6",
+        "category": "release",
+        "type": "plugin",
+        "gameVersion": "0.32",
+        "downloadUrl": "https://github.com/nikkorap/NOBlueprinter-Releases/releases/download/1.8.16/Blueprinter_1.8.16.dll",
+        "hash": "sha256:c5acfa50210aca58ff226b9a07c82f11aed14553c97a31b8d5042862ab0ee1eb"
+      }
+    ],
+    "downloadCount": 125
+  },
+  {
     "id": "FrontlineMap",
     "displayName": "Frontline Map",
     "description": "Real-time frontline visualization on the map. Shows faction-colored territory control and battle lines.",
@@ -405,6 +492,21 @@
         "gameVersion": "0.32",
         "downloadUrl": "https://codeberg.org/maevi/nuclear-option-mods/releases/download/livery-manager-1.0.0/livery-manager-1.0.0.zip",
         "hash": "sha256:af443d939b0279d83113e3b966821388175f5bc24514d4e4c88414102f143b2e",
+        "dependencies": [
+          {
+            "id": "BepInEx.ConfigurationManager",
+            "version": "18.4.1"
+          }
+        ]
+      },
+      {
+        "fileName": "livery-manager-2.0.0.zip",
+        "version": "2.0.0",
+        "category": "release",
+        "type": "plugin",
+        "gameVersion": "0.32",
+        "downloadUrl": "https://codeberg.org/maevi/nuclear-option-mods/releases/download/livery-manager-2.0.0/livery-manager-1.0.0.zip",
+        "hash": "sha256:8153a19ecab7de1600012b38a889a0492cabb7324637b2617a809affb071717e",
         "dependencies": [
           {
             "id": "BepInEx.ConfigurationManager",
@@ -2001,7 +2103,7 @@
         ]
       }
     ],
-    "downloadCount": 4445
+    "downloadCount": 4446
   },
   {
     "id": "no-autopilot-mod",
@@ -2241,7 +2343,7 @@
         "hash": "sha256:f526584e61ed46c25d10a0b46319f9e901fc5917d73dfcccc3aebb5ee0acaa5c"
       }
     ],
-    "downloadCount": 3228
+    "downloadCount": 3229
   },
   {
     "id": "NOBlackBox",
@@ -2841,7 +2943,7 @@
         "downloadUrl": "https://github.com/9138noms/NuclearOption-RepairProgress/releases/download/v1.0.0/RepairProgress.zip"
       }
     ],
-    "downloadCount": 335
+    "downloadCount": 337
   },
   {
     "id": "RuntimeUnityEditor",
@@ -2874,7 +2976,7 @@
         "hash": "sha256:28596c0f68258f3e4d024c0ed89c8b5653fd86b1e619f945f9f7080ee6859734"
       }
     ],
-    "downloadCount": 117098
+    "downloadCount": 117099
   },
   {
     "id": "skyeye_voice",
