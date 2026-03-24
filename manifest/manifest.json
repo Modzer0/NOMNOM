@@ -135,7 +135,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 761
+    "downloadCount": 762
   },
   {
     "id": "BepInEx.ConfigurationManager",
@@ -210,7 +210,7 @@
         }
       }
     ],
-    "downloadCount": 283
+    "downloadCount": 284
   },
   {
     "id": "com.nikkorap.blueprinter",
@@ -255,7 +255,7 @@
         "hash": "sha256:c5acfa50210aca58ff226b9a07c82f11aed14553c97a31b8d5042862ab0ee1eb"
       }
     ],
-    "downloadCount": 283
+    "downloadCount": 284
   },
   {
     "id": "com.nikkorap.EditorPlus",
@@ -2136,7 +2136,7 @@
         ]
       }
     ],
-    "downloadCount": 4484
+    "downloadCount": 4485
   },
   {
     "id": "no-autopilot-mod",
@@ -2462,7 +2462,7 @@
         "hash": "sha256:bac8d3d0cdfbc9c77edc4a99994eb5e660641a9c9096018a700e783e19cec0e9"
       }
     ],
-    "downloadCount": 249
+    "downloadCount": 250
   },
   {
     "id": "NOFFB",
