@@ -135,7 +135,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 760
+    "downloadCount": 761
   },
   {
     "id": "BepInEx.ConfigurationManager",
@@ -210,7 +210,7 @@
         }
       }
     ],
-    "downloadCount": 279
+    "downloadCount": 283
   },
   {
     "id": "com.nikkorap.blueprinter",
@@ -255,7 +255,7 @@
         "hash": "sha256:c5acfa50210aca58ff226b9a07c82f11aed14553c97a31b8d5042862ab0ee1eb"
       }
     ],
-    "downloadCount": 279
+    "downloadCount": 283
   },
   {
     "id": "com.nikkorap.EditorPlus",
@@ -288,7 +288,7 @@
         "category": "release"
       }
     ],
-    "downloadCount": 34
+    "downloadCount": 36
   },
   {
     "id": "FrontlineMap",
@@ -2136,7 +2136,7 @@
         ]
       }
     ],
-    "downloadCount": 4483
+    "downloadCount": 4484
   },
   {
     "id": "no-autopilot-mod",
@@ -2376,7 +2376,7 @@
         "hash": "sha256:f526584e61ed46c25d10a0b46319f9e901fc5917d73dfcccc3aebb5ee0acaa5c"
       }
     ],
-    "downloadCount": 3261
+    "downloadCount": 3262
   },
   {
     "id": "NOBlackBox",
@@ -2555,7 +2555,7 @@
         ]
       }
     ],
-    "downloadCount": 596
+    "downloadCount": 597
   },
   {
     "id": "NOLiveryPlus",
@@ -2945,7 +2945,7 @@
         ]
       }
     ],
-    "downloadCount": 456
+    "downloadCount": 459
   },
   {
     "id": "RepairProgress",
@@ -3009,7 +3009,7 @@
         "hash": "sha256:28596c0f68258f3e4d024c0ed89c8b5653fd86b1e619f945f9f7080ee6859734"
       }
     ],
-    "downloadCount": 117128
+    "downloadCount": 117129
   },
   {
     "id": "skyeye_voice",
