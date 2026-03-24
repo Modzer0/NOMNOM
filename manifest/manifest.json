@@ -30,7 +30,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 456
+    "downloadCount": 457
   },
   {
     "id": "AircraftWaypoints",
@@ -210,7 +210,7 @@
         }
       }
     ],
-    "downloadCount": 297
+    "downloadCount": 301
   },
   {
     "id": "com.nikkorap.blueprinter",
@@ -255,7 +255,7 @@
         "hash": "sha256:c5acfa50210aca58ff226b9a07c82f11aed14553c97a31b8d5042862ab0ee1eb"
       }
     ],
-    "downloadCount": 297
+    "downloadCount": 301
   },
   {
     "id": "com.nikkorap.EditorPlus",
@@ -328,7 +328,7 @@
         "downloadUrl": "https://github.com/9138noms/FrontlineMap/releases/download/v1.2.1/FrontlineMap.dll"
       }
     ],
-    "downloadCount": 633
+    "downloadCount": 634
   },
   {
     "id": "galaxy2_voice",
@@ -496,7 +496,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 890
+    "downloadCount": 891
   },
   {
     "id": "LiveryManager",
@@ -2136,7 +2136,7 @@
         ]
       }
     ],
-    "downloadCount": 4486
+    "downloadCount": 4487
   },
   {
     "id": "no-autopilot-mod",
@@ -2376,7 +2376,7 @@
         "hash": "sha256:f526584e61ed46c25d10a0b46319f9e901fc5917d73dfcccc3aebb5ee0acaa5c"
       }
     ],
-    "downloadCount": 3263
+    "downloadCount": 3264
   },
   {
     "id": "NOBlackBox",
@@ -2744,7 +2744,7 @@
         ]
       }
     ],
-    "downloadCount": 1366
+    "downloadCount": 1368
   },
   {
     "id": "Nuclear-Option-Mod-WingmanVisual",
@@ -2945,7 +2945,7 @@
         ]
       }
     ],
-    "downloadCount": 462
+    "downloadCount": 465
   },
   {
     "id": "RepairProgress",
@@ -2976,7 +2976,7 @@
         "downloadUrl": "https://github.com/9138noms/NuclearOption-RepairProgress/releases/download/v1.0.0/RepairProgress.zip"
       }
     ],
-    "downloadCount": 354
+    "downloadCount": 355
   },
   {
     "id": "RuntimeUnityEditor",
@@ -3294,7 +3294,7 @@
         "hash": "sha256:c5acfa50210aca58ff226b9a07c82f11aed14553c97a31b8d5042862ab0ee1eb"
       }
     ],
-    "downloadCount": 876
+    "downloadCount": 877
   },
   {
     "id": "YawOnMouse",
