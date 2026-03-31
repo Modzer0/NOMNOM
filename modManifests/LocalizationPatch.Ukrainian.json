@@ -1,0 +1,32 @@
+{
+  "id": "LocalizationPatch.Ukrainian",
+  "displayName": "Ukrainian Localization Patch",
+  "description": "Ukrainian (Українська) translation for Nuclear Option. ~1800 translated strings including UI, missions, scenarios, vehicles, weapons.",
+  "tags": [
+    "mod",
+    "Localization"
+  ],
+  "urls": [
+    {
+      "name": "info",
+      "url": "https://github.com/9138noms/NuclearOption-UkrainianPatch"
+    }
+  ],
+  "authors": [
+    "9138noms"
+  ],
+  "githubOwner": "9138noms",
+  "githubRepoName": "NuclearOption-UkrainianPatch",
+  "autoUpdateArtifacts": "True",
+  "artifacts": [
+    {
+      "fileName": "LocalizationPatch_ua.zip",
+      "version": "2.9.0",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.32",
+      "downloadUrl": "https://github.com/9138noms/NuclearOption-UkrainianPatch/releases/download/v2.9.0/LocalizationPatch_ua.zip",
+      "hash": null
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": "LocalizationPatch.Belarusian",
+  "displayName": "Belarusian Localization Patch",
+  "description": "Belarusian (Беларуская) translation for Nuclear Option. Full translation including UI, missions, scenarios, vehicles, weapons.",
+  "tags": [
+    "mod",
+    "Localization"
+  ],
+  "urls": [
+    {
+      "name": "info",
+      "url": "https://github.com/9138noms/NuclearOption-BelarusianPatch"
+    }
+  ],
+  "authors": [
+    "9138noms"
+  ],
+  "githubOwner": "9138noms",
+  "githubRepoName": "NuclearOption-BelarusianPatch",
+  "autoUpdateArtifacts": "True",
+  "artifacts": [
+    {
+      "fileName": "LocalizationPatch_blr.zip",
+      "version": "2.9.0",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.32",
+      "downloadUrl": "https://github.com/9138noms/NuclearOption-BelarusianPatch/releases/download/v2.9.0/LocalizationPatch_blr.zip",
+      "hash": null
+    }
+  ]
+}
