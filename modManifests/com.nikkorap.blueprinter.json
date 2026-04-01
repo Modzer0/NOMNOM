@@ -3,8 +3,7 @@
   "displayName": "Blueprinter",
   "description": "Core framework required for mods utilising blueprinter.",
   "tags": [
-    "mod",
-    "blueprinter"
+    "mod"
   ],
   "urls": [
     {
