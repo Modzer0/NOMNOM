@@ -39,7 +39,7 @@
         }
       }
     ],
-    "downloadCount": 461
+    "downloadCount": 465
   },
   {
     "id": "AIAircraftLimit",
@@ -72,7 +72,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 902
+    "downloadCount": 905
   },
   {
     "id": "AircraftWaypoints",
@@ -104,7 +104,7 @@
         "downloadUrl": "https://github.com/9138noms/NuclearOption-AircraftWaypoints/releases/download/v2.1.0/AircraftWaypoints.zip"
       }
     ],
-    "downloadCount": 495
+    "downloadCount": 496
   },
   {
     "id": "AtomicFramework",
@@ -254,7 +254,7 @@
         }
       }
     ],
-    "downloadCount": 2543
+    "downloadCount": 2555
   },
   {
     "id": "bote",
@@ -328,7 +328,40 @@
         }
       }
     ],
-    "downloadCount": 2325
+    "downloadCount": 2344
+  },
+  {
+    "id": "CameraPresets",
+    "displayName": "Camera Presets",
+    "description": "save and load presets of the advanced camera controls menu",
+    "tags": [
+      "mod",
+      "qol"
+    ],
+    "urls": [
+      {
+        "name": "info",
+        "url": "https://github.com/nikkorap/NOCameraPresets/"
+      }
+    ],
+    "authors": [
+      "nikkorap"
+    ],
+    "githubOwner": "nikkorap",
+    "githubRepoName": "NOCameraPresets",
+    "autoUpdateArtifacts": "True",
+    "artifacts": [
+      {
+        "fileName": "camerapresets_1.0.0.dll",
+        "version": "1.0.0",
+        "category": "release",
+        "type": "plugin",
+        "gameVersion": "0.32",
+        "downloadUrl": "https://github.com/nikkorap/NOCameraPresets/releases/download/1.0.0/camerapresets_1.0.0.dll",
+        "hash": null
+      }
+    ],
+    "downloadCount": 3
   },
   {
     "id": "CargoHookFree",
@@ -361,6 +394,30 @@
       }
     ],
     "downloadCount": 207
+  },
+  {
+    "id": "com.basicGrowl",
+    "displayName": "Nurds BasicGrowl",
+    "description": "IR seeker growl audio mod for Nuclear Option with profile-driven seeker behavior and configurable audio.",
+    "authors": [
+      "NurdVEVO"
+    ],
+    "urls": [
+      {
+        "name": "info",
+        "url": "https://github.com/NurdVEVO/Nurds-BasicGrowl"
+      }
+    ],
+    "artifacts": [
+      {
+        "type": "plugin",
+        "fileName": "com.basicGrowl-1.0.0.zip",
+        "downloadUrl": "https://github.com/NurdVEVO/Nurds-BasicGrowl/releases/download/0.32.5/com.basicGrowl-1.0.0.zip",
+        "gameVersion": "0.32.5",
+        "version": "1.0.0",
+        "category": "Release"
+      }
+    ]
   },
   {
     "id": "com.nikkorap.blueprinter",
@@ -415,7 +472,7 @@
         "hash": "sha256:c5acfa50210aca58ff226b9a07c82f11aed14553c97a31b8d5042862ab0ee1eb"
       }
     ],
-    "downloadCount": 4170
+    "downloadCount": 4189
   },
   {
     "id": "com.nikkorap.EditorPlus",
@@ -506,7 +563,7 @@
         "downloadUrl": "https://github.com/9138noms/FrontlineMap/releases/download/v1.2.1/FrontlineMap.dll"
       }
     ],
-    "downloadCount": 1535
+    "downloadCount": 1540
   },
   {
     "id": "galaxy2_voice",
@@ -661,7 +718,7 @@
         }
       }
     ],
-    "downloadCount": 2509
+    "downloadCount": 2523
   },
   {
     "id": "klawshout_voice",
@@ -727,7 +784,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 1405
+    "downloadCount": 1410
   },
   {
     "id": "LiveryManager",
@@ -1933,7 +1990,7 @@
         ]
       }
     ],
-    "downloadCount": 276
+    "downloadCount": 277
   },
   {
     "id": "LocalizationPatch.Spanish",
@@ -2433,7 +2490,7 @@
         ]
       }
     ],
-    "downloadCount": 5403
+    "downloadCount": 5406
   },
   {
     "id": "no-autopilot-mod",
@@ -2673,7 +2730,7 @@
         "hash": "sha256:f526584e61ed46c25d10a0b46319f9e901fc5917d73dfcccc3aebb5ee0acaa5c"
       }
     ],
-    "downloadCount": 4107
+    "downloadCount": 4110
   },
   {
     "id": "NOBlackBox",
@@ -3056,7 +3113,7 @@
         ]
       }
     ],
-    "downloadCount": 1842
+    "downloadCount": 1845
   },
   {
     "id": "Nuclear-Option-Mod-WingmanVisual",
@@ -3107,7 +3164,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 788
+    "downloadCount": 789
   },
   {
     "id": "NuclearVOIP",
@@ -3273,7 +3330,7 @@
         ]
       }
     ],
-    "downloadCount": 1581
+    "downloadCount": 1597
   },
   {
     "id": "RepairProgress",
@@ -3304,7 +3361,7 @@
         "downloadUrl": "https://github.com/9138noms/NuclearOption-RepairProgress/releases/download/v1.0.0/RepairProgress.zip"
       }
     ],
-    "downloadCount": 720
+    "downloadCount": 722
   },
   {
     "id": "RuntimeUnityEditor",
@@ -3337,7 +3394,7 @@
         "hash": "sha256:28596c0f68258f3e4d024c0ed89c8b5653fd86b1e619f945f9f7080ee6859734"
       }
     ],
-    "downloadCount": 117879
+    "downloadCount": 117885
   },
   {
     "id": "skyeye_voice",
@@ -3421,7 +3478,7 @@
         "downloadUrl": "https://github.com/9138noms/NuclearOption-SmokeTrail/releases/download/v2.1.0/SmokeTrail.dll"
       }
     ],
-    "downloadCount": 195
+    "downloadCount": 196
   },
   {
     "id": "ThirdFaction",
@@ -3567,7 +3624,7 @@
         "downloadUrl": "https://github.com/9138noms/NuclearOption-VehicleControl/releases/download/v2.3.2/VehicleControl.zip"
       }
     ],
-    "downloadCount": 1104
+    "downloadCount": 1108
   },
   {
     "id": "WeatherController",
@@ -3598,7 +3655,7 @@
         "downloadUrl": "https://github.com/9138noms/NuclearOption-WeatherController/releases/download/v3.0.0/WeatherController_v3.0.0.zip"
       }
     ],
-    "downloadCount": 286
+    "downloadCount": 287
   },
   {
     "id": "WSOYappinator",
@@ -3631,7 +3688,7 @@
         "hash": "sha256:c5acfa50210aca58ff226b9a07c82f11aed14553c97a31b8d5042862ab0ee1eb"
       }
     ],
-    "downloadCount": 1138
+    "downloadCount": 1139
   },
   {
     "id": "YawOnMouse",
@@ -3681,6 +3738,6 @@
         "hash": null
       }
     ],
-    "downloadCount": 419
+    "downloadCount": 420
   }
 ]
