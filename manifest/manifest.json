@@ -39,7 +39,7 @@
         }
       }
     ],
-    "downloadCount": 552
+    "downloadCount": 556
   },
   {
     "id": "AIAircraftLimit",
@@ -72,7 +72,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 974
+    "downloadCount": 976
   },
   {
     "id": "AircraftWaypoints",
@@ -104,7 +104,50 @@
         "downloadUrl": "https://github.com/9138noms/NuclearOption-AircraftWaypoints/releases/download/v2.1.0/AircraftWaypoints.zip"
       }
     ],
-    "downloadCount": 539
+    "downloadCount": 541
+  },
+  {
+    "id": "aryx.mig15",
+    "displayName": "Aryx-MiG-15",
+    "description": "Adds an honest to god playable MiG-15 aircraft.",
+    "tags": [
+      "mod",
+      "aircraft",
+      "blueprinter",
+      "expeditionary"
+    ],
+    "urls": [
+      {
+        "name": "info",
+        "url": "https://github.com/Aryx3D/Aryx-MiG-15/blob/main/README.md"
+      },
+      {
+        "name": "discord",
+        "url": "https://discord.gg/3atkUZV3b"
+      }
+    ],
+    "authors": [
+      "Aryx"
+    ],
+    "githubOwner": "Aryx3D",
+    "githubRepoName": "Aryx-MiG-15",
+    "autoUpdateArtifacts": "True",
+    "artifacts": [
+      {
+        "fileName": "Aryx.s.MiG-15_0.07.nobp",
+        "version": "0.7",
+        "category": "release",
+        "type": "addon",
+        "gameVersion": "0.32",
+        "downloadUrl": "https://github.com/Aryx3D/Aryx-MiG-15/releases/download/0.07/Aryx.s.MiG-15_0.07.nobp",
+        "hash": "",
+        "extends": {
+          "id": "com.nikkorap.blueprinter",
+          "version": "1.8.17"
+        }
+      }
+    ],
+    "downloadCount": 74
   },
   {
     "id": "AtomicFramework",
@@ -177,7 +220,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 1161
+    "downloadCount": 1162
   },
   {
     "id": "BepInEx.ConfigurationManager",
@@ -254,7 +297,7 @@
         }
       }
     ],
-    "downloadCount": 2808
+    "downloadCount": 2816
   },
   {
     "id": "bote",
@@ -328,7 +371,7 @@
         }
       }
     ],
-    "downloadCount": 2802
+    "downloadCount": 2815
   },
   {
     "id": "CameraPresets",
@@ -361,7 +404,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 46
+    "downloadCount": 49
   },
   {
     "id": "CargoHookFree",
@@ -393,7 +436,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 257
+    "downloadCount": 258
   },
   {
     "id": "com.basicGrowl",
@@ -472,7 +515,7 @@
         "hash": "sha256:c5acfa50210aca58ff226b9a07c82f11aed14553c97a31b8d5042862ab0ee1eb"
       }
     ],
-    "downloadCount": 4616
+    "downloadCount": 4638
   },
   {
     "id": "com.nikkorap.EditorPlus",
@@ -514,7 +557,7 @@
         "category": "release"
       }
     ],
-    "downloadCount": 442
+    "downloadCount": 447
   },
   {
     "id": "FrontlineMap",
@@ -572,7 +615,7 @@
         "downloadUrl": "https://github.com/9138noms/FrontlineMap/releases/download/v1.2.1/FrontlineMap.dll"
       }
     ],
-    "downloadCount": 1681
+    "downloadCount": 1684
   },
   {
     "id": "galaxy2_voice",
@@ -727,7 +770,7 @@
         }
       }
     ],
-    "downloadCount": 2875
+    "downloadCount": 2890
   },
   {
     "id": "klawshout_voice",
@@ -793,7 +836,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 1473
+    "downloadCount": 1475
   },
   {
     "id": "LiveryManager",
@@ -877,7 +920,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 156
+    "downloadCount": 157
   },
   {
     "id": "LocalizationPatch.French",
@@ -1144,7 +1187,7 @@
         ]
       }
     ],
-    "downloadCount": 429
+    "downloadCount": 430
   },
   {
     "id": "LocalizationPatch.German",
@@ -1411,7 +1454,7 @@
         ]
       }
     ],
-    "downloadCount": 426
+    "downloadCount": 427
   },
   {
     "id": "LocalizationPatch.Korean",
@@ -1678,7 +1721,7 @@
         ]
       }
     ],
-    "downloadCount": 411
+    "downloadCount": 412
   },
   {
     "id": "LocalizationPatch.Russian",
@@ -1999,7 +2042,7 @@
         ]
       }
     ],
-    "downloadCount": 287
+    "downloadCount": 289
   },
   {
     "id": "LocalizationPatch.Spanish",
@@ -2330,7 +2373,7 @@
         "downloadUrl": "https://github.com/9138noms/NuclearOption-CustomMapLoader/releases/download/v3.0.0/MapLoader_v3.0.0.zip"
       }
     ],
-    "downloadCount": 424
+    "downloadCount": 425
   },
   {
     "id": "MFDVideoPlayer",
@@ -2499,7 +2542,7 @@
         ]
       }
     ],
-    "downloadCount": 5493
+    "downloadCount": 5496
   },
   {
     "id": "no-autopilot-mod",
@@ -2739,7 +2782,7 @@
         "hash": "sha256:f526584e61ed46c25d10a0b46319f9e901fc5917d73dfcccc3aebb5ee0acaa5c"
       }
     ],
-    "downloadCount": 4205
+    "downloadCount": 4209
   },
   {
     "id": "NOBlackBox",
@@ -2933,7 +2976,7 @@
         ]
       }
     ],
-    "downloadCount": 816
+    "downloadCount": 819
   },
   {
     "id": "NOLiveryPlus",
@@ -3122,7 +3165,7 @@
         ]
       }
     ],
-    "downloadCount": 1904
+    "downloadCount": 1906
   },
   {
     "id": "Nuclear-Option-Mod-WingmanVisual",
@@ -3173,7 +3216,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 818
+    "downloadCount": 820
   },
   {
     "id": "NuclearVOIP",
@@ -3339,7 +3382,7 @@
         ]
       }
     ],
-    "downloadCount": 1804
+    "downloadCount": 1814
   },
   {
     "id": "RepairProgress",
@@ -3370,7 +3413,7 @@
         "downloadUrl": "https://github.com/9138noms/NuclearOption-RepairProgress/releases/download/v1.0.0/RepairProgress.zip"
       }
     ],
-    "downloadCount": 775
+    "downloadCount": 778
   },
   {
     "id": "RuntimeUnityEditor",
@@ -3403,7 +3446,7 @@
         "hash": "sha256:28596c0f68258f3e4d024c0ed89c8b5653fd86b1e619f945f9f7080ee6859734"
       }
     ],
-    "downloadCount": 117955
+    "downloadCount": 117961
   },
   {
     "id": "skyeye_voice",
@@ -3562,7 +3605,7 @@
         "downloadUrl": "https://github.com/9138noms/ThirdFaction/releases/download/v1.0.0/ThirdFaction.dll"
       }
     ],
-    "downloadCount": 368
+    "downloadCount": 369
   },
   {
     "id": "UnitCopyPaste",
