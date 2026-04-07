@@ -39,7 +39,7 @@
         }
       }
     ],
-    "downloadCount": 618
+    "downloadCount": 621
   },
   {
     "id": "AIAircraftLimit",
@@ -72,7 +72,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 1012
+    "downloadCount": 1015
   },
   {
     "id": "AircraftWaypoints",
@@ -160,7 +160,7 @@
         }
       }
     ],
-    "downloadCount": 418
+    "downloadCount": 499
   },
   {
     "id": "aryx.mig15",
@@ -203,7 +203,7 @@
         }
       }
     ],
-    "downloadCount": 316
+    "downloadCount": 332
   },
   {
     "id": "AtomicFramework",
@@ -276,7 +276,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 1184
+    "downloadCount": 1185
   },
   {
     "id": "BepInEx.ConfigurationManager",
@@ -353,7 +353,7 @@
         }
       }
     ],
-    "downloadCount": 3007
+    "downloadCount": 3020
   },
   {
     "id": "bote",
@@ -440,7 +440,7 @@
         }
       }
     ],
-    "downloadCount": 3380
+    "downloadCount": 3417
   },
   {
     "id": "CameraPresets",
@@ -584,7 +584,7 @@
         "hash": "sha256:c5acfa50210aca58ff226b9a07c82f11aed14553c97a31b8d5042862ab0ee1eb"
       }
     ],
-    "downloadCount": 5028
+    "downloadCount": 5059
   },
   {
     "id": "com.nikkorap.EditorPlus",
@@ -626,7 +626,7 @@
         "category": "release"
       }
     ],
-    "downloadCount": 469
+    "downloadCount": 472
   },
   {
     "id": "FrontlineMap",
@@ -684,7 +684,7 @@
         "downloadUrl": "https://github.com/9138noms/FrontlineMap/releases/download/v1.2.1/FrontlineMap.dll"
       }
     ],
-    "downloadCount": 1780
+    "downloadCount": 1781
   },
   {
     "id": "galaxy2_voice",
@@ -839,7 +839,7 @@
         }
       }
     ],
-    "downloadCount": 3136
+    "downloadCount": 3155
   },
   {
     "id": "klawshout_voice",
@@ -905,7 +905,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 1512
+    "downloadCount": 1516
   },
   {
     "id": "LiveryManager",
@@ -2411,7 +2411,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 13
+    "downloadCount": 14
   },
   {
     "id": "MapLoader",
@@ -2473,7 +2473,7 @@
         "downloadUrl": "https://github.com/9138noms/NuclearOption-MFDVideoPlayer/releases/download/v2.0.0/MFDVideoPlayer.dll"
       }
     ],
-    "downloadCount": 462
+    "downloadCount": 463
   },
   {
     "id": "NO_Tactitools",
@@ -2611,7 +2611,7 @@
         ]
       }
     ],
-    "downloadCount": 5576
+    "downloadCount": 5579
   },
   {
     "id": "no-autopilot-mod",
@@ -2851,7 +2851,7 @@
         "hash": "sha256:f526584e61ed46c25d10a0b46319f9e901fc5917d73dfcccc3aebb5ee0acaa5c"
       }
     ],
-    "downloadCount": 4304
+    "downloadCount": 4307
   },
   {
     "id": "NOBlackBox",
@@ -2905,7 +2905,7 @@
         ]
       }
     ],
-    "downloadCount": 2477
+    "downloadCount": 2478
   },
   {
     "id": "NOCursorOverride",
@@ -3006,7 +3006,7 @@
         ]
       }
     ],
-    "downloadCount": 352
+    "downloadCount": 353
   },
   {
     "id": "NOFrameLimiter",
@@ -3234,7 +3234,7 @@
         ]
       }
     ],
-    "downloadCount": 1971
+    "downloadCount": 1975
   },
   {
     "id": "Nuclear-Option-Mod-WingmanVisual",
@@ -3285,7 +3285,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 839
+    "downloadCount": 842
   },
   {
     "id": "NuclearVOIP",
@@ -3436,7 +3436,7 @@
         ]
       }
     ],
-    "downloadCount": 138
+    "downloadCount": 149
   },
   {
     "id": "RepairProgress",
@@ -3467,7 +3467,7 @@
         "downloadUrl": "https://github.com/9138noms/NuclearOption-RepairProgress/releases/download/v1.0.0/RepairProgress.zip"
       }
     ],
-    "downloadCount": 823
+    "downloadCount": 824
   },
   {
     "id": "RuntimeUnityEditor",
@@ -3584,7 +3584,39 @@
         "downloadUrl": "https://github.com/9138noms/NuclearOption-SmokeTrail/releases/download/v2.1.0/SmokeTrail.dll"
       }
     ],
-    "downloadCount": 205
+    "downloadCount": 206
+  },
+  {
+    "id": "SplitThrottle",
+    "displayName": "Split Throttle",
+    "description": "Independent engine throttle control for HOTAS dual throttle setups. Each lever controls its own engine side (left/right) with per-engine afterburner effects. Modded clients only match with each other in the lobby browser (Application.version marker).",
+    "tags": [
+      "mod",
+      "QoL"
+    ],
+    "urls": [
+      {
+        "name": "info",
+        "url": "https://github.com/9138noms/NuclearOption-SplitThrottle"
+      }
+    ],
+    "authors": [
+      "9138noms"
+    ],
+    "githubOwner": "9138noms",
+    "githubRepoName": "NuclearOption-SplitThrottle",
+    "autoUpdateArtifacts": "True",
+    "artifacts": [
+      {
+        "fileName": "SplitThrottle_v1.2.0.zip",
+        "version": "1.2.0",
+        "category": "release",
+        "type": "plugin",
+        "gameVersion": "0.32",
+        "downloadUrl": "https://github.com/9138noms/NuclearOption-SplitThrottle/releases/download/v1.2.0/SplitThrottle_v1.2.0.zip"
+      }
+    ],
+    "downloadCount": 1
   },
   {
     "id": "ThirdFaction",
@@ -3730,7 +3762,7 @@
         "downloadUrl": "https://github.com/9138noms/NuclearOption-VehicleControl/releases/download/v2.3.2/VehicleControl.zip"
       }
     ],
-    "downloadCount": 1208
+    "downloadCount": 1212
   },
   {
     "id": "WeatherController",
@@ -3794,7 +3826,7 @@
         "hash": "sha256:c5acfa50210aca58ff226b9a07c82f11aed14553c97a31b8d5042862ab0ee1eb"
       }
     ],
-    "downloadCount": 1172
+    "downloadCount": 1173
   },
   {
     "id": "YawOnMouse",
