@@ -1,0 +1,31 @@
+{
+  "id": "SplitThrottle",
+  "displayName": "Split Throttle",
+  "description": "Independent engine throttle control for HOTAS dual throttle setups. Each lever controls its own engine side (left/right) with per-engine afterburner effects. Modded clients only match with each other in the lobby browser (Application.version marker).",
+  "tags": [
+    "mod",
+    "QoL"
+  ],
+  "urls": [
+    {
+      "name": "info",
+      "url": "https://github.com/9138noms/NuclearOption-SplitThrottle"
+    }
+  ],
+  "authors": [
+    "9138noms"
+  ],
+  "githubOwner": "9138noms",
+  "githubRepoName": "NuclearOption-SplitThrottle",
+  "autoUpdateArtifacts": "True",
+  "artifacts": [
+    {
+      "fileName": "SplitThrottle_v1.2.0.zip",
+      "version": "1.2.0",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.32",
+      "downloadUrl": "https://github.com/9138noms/NuclearOption-SplitThrottle/releases/download/v1.2.0/SplitThrottle_v1.2.0.zip"
+    }
+  ]
+}
