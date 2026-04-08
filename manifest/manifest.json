@@ -39,7 +39,7 @@
         }
       }
     ],
-    "downloadCount": 725
+    "downloadCount": 728
   },
   {
     "id": "AIAircraftLimit",
@@ -72,7 +72,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 1109
+    "downloadCount": 1110
   },
   {
     "id": "AircraftWaypoints",
@@ -212,7 +212,7 @@
         }
       }
     ],
-    "downloadCount": 2459
+    "downloadCount": 2506
   },
   {
     "id": "aryx.mig15",
@@ -255,7 +255,7 @@
         }
       }
     ],
-    "downloadCount": 813
+    "downloadCount": 826
   },
   {
     "id": "AtomicFramework",
@@ -405,7 +405,7 @@
         }
       }
     ],
-    "downloadCount": 3494
+    "downloadCount": 3509
   },
   {
     "id": "bote",
@@ -492,7 +492,7 @@
         }
       }
     ],
-    "downloadCount": 4146
+    "downloadCount": 4159
   },
   {
     "id": "CameraPresets",
@@ -557,7 +557,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 341
+    "downloadCount": 342
   },
   {
     "id": "com.basicGrowl",
@@ -636,7 +636,7 @@
         "hash": "sha256:c5acfa50210aca58ff226b9a07c82f11aed14553c97a31b8d5042862ab0ee1eb"
       }
     ],
-    "downloadCount": 5972
+    "downloadCount": 5996
   },
   {
     "id": "com.nikkorap.EditorPlus",
@@ -736,7 +736,7 @@
         "downloadUrl": "https://github.com/9138noms/FrontlineMap/releases/download/v1.2.1/FrontlineMap.dll"
       }
     ],
-    "downloadCount": 2018
+    "downloadCount": 2028
   },
   {
     "id": "galaxy2_voice",
@@ -891,7 +891,7 @@
         }
       }
     ],
-    "downloadCount": 3618
+    "downloadCount": 3624
   },
   {
     "id": "klawshout_voice",
@@ -957,7 +957,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 1604
+    "downloadCount": 1606
   },
   {
     "id": "LiveryManager",
@@ -2163,7 +2163,7 @@
         ]
       }
     ],
-    "downloadCount": 302
+    "downloadCount": 303
   },
   {
     "id": "LocalizationPatch.Spanish",
@@ -2494,7 +2494,7 @@
         "downloadUrl": "https://github.com/9138noms/NuclearOption-CustomMapLoader/releases/download/v3.0.0/MapLoader_v3.0.0.zip"
       }
     ],
-    "downloadCount": 470
+    "downloadCount": 471
   },
   {
     "id": "MFDVideoPlayer",
@@ -2663,7 +2663,7 @@
         ]
       }
     ],
-    "downloadCount": 5758
+    "downloadCount": 5766
   },
   {
     "id": "no-autopilot-mod",
@@ -2903,7 +2903,7 @@
         "hash": "sha256:f526584e61ed46c25d10a0b46319f9e901fc5917d73dfcccc3aebb5ee0acaa5c"
       }
     ],
-    "downloadCount": 4487
+    "downloadCount": 4492
   },
   {
     "id": "NOBlackBox",
@@ -2957,7 +2957,7 @@
         ]
       }
     ],
-    "downloadCount": 2518
+    "downloadCount": 2521
   },
   {
     "id": "NOCursorOverride",
@@ -3286,7 +3286,7 @@
         ]
       }
     ],
-    "downloadCount": 2140
+    "downloadCount": 2142
   },
   {
     "id": "Nuclear-Option-Mod-WingmanVisual",
@@ -3337,7 +3337,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 900
+    "downloadCount": 903
   },
   {
     "id": "NuclearOptionVRFix",
@@ -3526,7 +3526,7 @@
         ]
       }
     ],
-    "downloadCount": 555
+    "downloadCount": 565
   },
   {
     "id": "RepairProgress",
@@ -3557,7 +3557,7 @@
         "downloadUrl": "https://github.com/9138noms/NuclearOption-RepairProgress/releases/download/v1.0.0/RepairProgress.zip"
       }
     ],
-    "downloadCount": 921
+    "downloadCount": 923
   },
   {
     "id": "RuntimeUnityEditor",
@@ -3706,7 +3706,7 @@
         "downloadUrl": "https://github.com/9138noms/NuclearOption-SplitThrottle/releases/download/v1.2.0/SplitThrottle_v1.2.0.zip"
       }
     ],
-    "downloadCount": 23
+    "downloadCount": 24
   },
   {
     "id": "ThirdFaction",
@@ -3781,7 +3781,7 @@
         "downloadUrl": "https://github.com/9138noms/ThirdFaction/releases/download/v1.0.0/ThirdFaction.dll"
       }
     ],
-    "downloadCount": 451
+    "downloadCount": 458
   },
   {
     "id": "UnitCopyPaste",
@@ -3915,7 +3915,7 @@
         "downloadUrl": "https://github.com/9138noms/NuclearOption-WeatherController/releases/download/v3.0.0/WeatherController_v3.0.0.zip"
       }
     ],
-    "downloadCount": 365
+    "downloadCount": 367
   },
   {
     "id": "WSOYappinator",
