@@ -33,6 +33,10 @@
         {
           "id": "NuclearOptionVRFix",
           "version": "1.0"
+        },
+        {
+          "id": "BepInEx.ConfigurationManager",
+          "version": "18.4.1"
         }
       ]
     }
