@@ -1,0 +1,31 @@
+{
+  "id": "NO-MissionMenuSearch",
+  "displayName": "NO-MissionMenuSearch",
+  "description": "Adds a search bar in the mission select to make selecting missions easier.",
+  "tags": [
+    "mod"
+  ],
+  "urls": [
+    {
+      "name": "info",
+      "url": "https://github.com/RudrNaik/NO-MissionMenuSearch"
+    }
+  ],
+  "authors": [
+    "RudrNaik"
+  ],
+  "githubOwner": "RudrNaik",
+  "githubRepoName": "NO-MissionMenuSearch",
+  "autoUpdateArtifacts": "True",
+  "artifacts": [
+    {
+      "fileName": "Mission.Menu.Search.dll",
+      "version": "0.0.1",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.33",
+      "downloadUrl": "https://github.com/RudrNaik/NO-MissionMenuSearch/releases/download/v0.0.1/Mission.Menu.Search.dll",
+      "hash": null
+    }
+  ]
+}

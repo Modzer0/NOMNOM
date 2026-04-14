@@ -1,0 +1,32 @@
+{
+  "id": "Zorduzd",
+  "displayName": "Zorduzd",
+  "description": "A Moza Flight Stick FFB mod for Nuclear Option",
+  "tags": [
+    "mod",
+    "ffb"
+  ],
+  "urls": [
+    {
+      "name": "info",
+      "url": "https://github.com/mayyxeng/zorduzd"
+    }
+  ],
+  "authors": [
+    "mayyxeng"
+  ],
+  "githubOwner": "mayyxeng",
+  "githubRepoName": "zorduzd",
+  "autoUpdateArtifacts": "True",
+  "artifacts": [
+    {
+      "fileName": "zorduzd-0.1.1-win-x86_64.zip",
+      "version": "0.1.1",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.33",
+      "downloadUrl": "https://github.com/mayyxeng/zorduzd/releases/download/v0.1.1/zorduzd-0.1.1-win-x86_64.zip",
+      "hash": null
+    }
+  ]
+}
