@@ -18,11 +18,30 @@
   ],
   "artifacts": [
     {
+      "fileName": "VR Fixes.zip",
+      "version": "1.34",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.33",
+      "downloadUrl": "https://cdn.discordapp.com/attachments/1267296334294159430/1493636221245849710/VR_Fixes.zip?ex=69dfb0a1&is=69de5f21&hm=0580b44e43baa4f012305211afe10d578f31225b6c87895a39a235b3dd8765ac&",
+      "hash": null,
+      "dependencies": [
+        {
+          "id": "uuvr",
+          "version": "0.4.0"
+        },
+        {
+          "id": "BepInEx.ConfigurationManager",
+          "version": "18.4.1"
+        }
+      ]
+    },
+        {
       "fileName": "NOVRUIFix.zip",
       "version": "1.33",
       "category": "release",
       "type": "plugin",
-      "gameVersion": "0.33",
+      "gameVersion": "0.32",
       "downloadUrl": "https://cdn.discordapp.com/attachments/1267296334294159430/1491409442963460176/NOVRUIFix.zip?ex=69d83f88&is=69d6ee08&hm=6fe7802db53893d64dcb1f982d45b001e1bd7c482cb39c47f64e9961edbf88e0&",
       "hash": null,
       "dependencies": [
