@@ -24,7 +24,7 @@
       "version": "0.7.1",
       "category": "preRelease",
       "type": "plugin",
-      "gameVersion": "0.32",
+      "gameVersion": "0.33",
       "downloadUrl": "https://github.com/clumzy/NO_Tactitools/releases/download/0.7.1/NOTT_PR_0.7.1.zip",
       "hash": null,
       "dependencies": [
