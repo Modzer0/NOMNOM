@@ -30,7 +30,7 @@
       "version": "1.0.7",
       "category": "release",
       "type": "addon",
-      "gameVersion": "0.32",
+      "gameVersion": "0.33",
       "downloadUrl": "https://github.com/Aryx3D/Aryx-F-16M/releases/download/1.0.7/Aryx.s.F16M_1.07.nobp",
       "hash": null,
       "extends": {

@@ -8,9 +8,6 @@ NOMNOM can also register mod dependencies, incompatibilities, and add-ons to oth
 
 - [NOMM - Nuclear Option Mod Manager](https://github.com/Combat787/NuclearOptionModManager/) - [DOWNLOAD](https://github.com/Combat787/NuclearOptionModManager/releases/latest)
 
-- [Yellowcake Mod Manager](https://github.com/NaghDiefallah/Yellowcake) - [DOWNLOAD](https://github.com/NaghDiefallah/Yellowcake/releases/latest)
-
-
 ### How to Add your Nuclear Option Mod to NOMNOM
 
 To make NOMNOM aware of a new Mod, create an Issue on the [NOMNOM repository](https://github.com/KopterBuzz/NOModManifestTesting/issues) with the Mod's Details, or follow [these instructions.](SCHEMA.md#how-to-contribute-mod-manifests)
