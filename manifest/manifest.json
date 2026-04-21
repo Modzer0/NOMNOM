@@ -277,7 +277,7 @@
         }
       }
     ],
-    "downloadCount": 11053
+    "downloadCount": 11060
   },
   {
     "id": "aryx.mig15",
@@ -346,7 +346,7 @@
         }
       }
     ],
-    "downloadCount": 4272
+    "downloadCount": 4274
   },
   {
     "id": "AtomicFramework",
@@ -419,7 +419,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 1761
+    "downloadCount": 1762
   },
   {
     "id": "BepInEx.ConfigurationManager",
@@ -622,7 +622,7 @@
         }
       }
     ],
-    "downloadCount": 9107
+    "downloadCount": 9113
   },
   {
     "id": "CameraPresets",
@@ -696,7 +696,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 860
+    "downloadCount": 861
   },
   {
     "id": "com.basicGrowl",
@@ -983,7 +983,7 @@
         "hash": "sha256:c5acfa50210aca58ff226b9a07c82f11aed14553c97a31b8d5042862ab0ee1eb"
       }
     ],
-    "downloadCount": 11371
+    "downloadCount": 11375
   },
   {
     "id": "com.nikkorap.EditorPlus",
@@ -1290,7 +1290,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 6
+    "downloadCount": 7
   },
   {
     "id": "kar",
@@ -1356,7 +1356,7 @@
         }
       }
     ],
-    "downloadCount": 7305
+    "downloadCount": 7318
   },
   {
     "id": "klawshout_voice",
@@ -1395,7 +1395,7 @@
   {
     "id": "KR-EW.67",
     "displayName": "E/KR-67",
-    "description": "Adds the ability to host and join LAN games from the main menu without needing to execute commands via the CLI.",
+    "description": "Allows you to turn the Ifrit into an EW aircraft with mini jammers, more ARADs, a Radome, and an ECM upgrade to give you even more charge.",
     "tags": [
       "mod",
       "flavor"
@@ -3569,7 +3569,7 @@
         ]
       }
     ],
-    "downloadCount": 8226
+    "downloadCount": 8227
   },
   {
     "id": "no-autopilot-mod",
@@ -3854,7 +3854,7 @@
         "hash": "sha256:f526584e61ed46c25d10a0b46319f9e901fc5917d73dfcccc3aebb5ee0acaa5c"
       }
     ],
-    "downloadCount": 7278
+    "downloadCount": 7280
   },
   {
     "id": "NO-MissionMenuSearch",
@@ -4251,7 +4251,7 @@
   {
     "id": "NOWinWingBridge",
     "displayName": "Winwing Vibration Bridge",
-    "description": "This builds of NOFBBs telemetry code to bring vibration motor functionality to Winwing flight sticks",
+    "description": "This builds of NOFBBs telemetry code to bring vibration motor functionality to Winwing flight sticks. Needs Winwing SimAppPro.",
     "tags": [
       "mod",
       "qol"
@@ -4701,7 +4701,7 @@
         ]
       }
     ],
-    "downloadCount": 3692
+    "downloadCount": 3693
   },
   {
     "id": "RepairProgress",
@@ -4765,7 +4765,7 @@
         "hash": "sha256:28596c0f68258f3e4d024c0ed89c8b5653fd86b1e619f945f9f7080ee6859734"
       }
     ],
-    "downloadCount": 119230
+    "downloadCount": 119234
   },
   {
     "id": "skyeye_voice",
@@ -5014,7 +5014,7 @@
         "downloadUrl": "https://github.com/9138noms/UnitCopyPaste/releases/download/v1.0.0/UnitCopyPaste.dll"
       }
     ],
-    "downloadCount": 275
+    "downloadCount": 276
   },
   {
     "id": "uuvr",
