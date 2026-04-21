@@ -39,7 +39,7 @@
         }
       }
     ],
-    "downloadCount": 1583
+    "downloadCount": 1585
   },
   {
     "id": "AIAircraftLimit",
@@ -277,7 +277,7 @@
         }
       }
     ],
-    "downloadCount": 11015
+    "downloadCount": 11038
   },
   {
     "id": "aryx.mig15",
@@ -346,7 +346,7 @@
         }
       }
     ],
-    "downloadCount": 4259
+    "downloadCount": 4264
   },
   {
     "id": "AtomicFramework",
@@ -496,7 +496,7 @@
         }
       }
     ],
-    "downloadCount": 6295
+    "downloadCount": 6304
   },
   {
     "id": "bote",
@@ -622,7 +622,7 @@
         }
       }
     ],
-    "downloadCount": 9048
+    "downloadCount": 9086
   },
   {
     "id": "CameraPresets",
@@ -696,7 +696,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 859
+    "downloadCount": 860
   },
   {
     "id": "com.basicGrowl",
@@ -833,7 +833,7 @@
         ]
       }
     ],
-    "downloadCount": 47
+    "downloadCount": 49
   },
   {
     "id": "Com.Hellcat92.VanillaIconsPLUS",
@@ -873,7 +873,7 @@
         ]
       }
     ],
-    "downloadCount": 79
+    "downloadCount": 80
   },
   {
     "id": "com.JUSTJ7780.globalsoundreplacerno",
@@ -983,7 +983,7 @@
         "hash": "sha256:c5acfa50210aca58ff226b9a07c82f11aed14553c97a31b8d5042862ab0ee1eb"
       }
     ],
-    "downloadCount": 11338
+    "downloadCount": 11357
   },
   {
     "id": "com.nikkorap.EditorPlus",
@@ -1025,7 +1025,7 @@
         "category": "release"
       }
     ],
-    "downloadCount": 1062
+    "downloadCount": 1063
   },
   {
     "id": "dev.dikka.nuclearmenubackground",
@@ -1155,7 +1155,7 @@
         "downloadUrl": "https://github.com/9138noms/FrontlineMap/releases/download/v1.2.1/FrontlineMap.dll"
       }
     ],
-    "downloadCount": 3562
+    "downloadCount": 3563
   },
   {
     "id": "galaxy2_voice",
@@ -1260,6 +1260,39 @@
     "downloadCount": 0
   },
   {
+    "id": "JoinLanButtonPlugin",
+    "displayName": "LAN Hosting/Join Mod",
+    "description": "Adds the ability to host and join LAN games from the main menu without needing to execute commands via the CLI.",
+    "tags": [
+      "mod",
+      "qol"
+    ],
+    "urls": [
+      {
+        "name": "info",
+        "url": "https://github.com/Talon-One-Fighter-Squadron/LAN"
+      }
+    ],
+    "authors": [
+      "ChadFromHighSchool"
+    ],
+    "githubOwner": "Talon-One-Fighter-Squadron",
+    "githubRepoName": "LAN",
+    "autoUpdateArtifacts": "True",
+    "artifacts": [
+      {
+        "fileName": "JoinLanButtonPlugin.dll",
+        "version": "1.2",
+        "category": "release",
+        "type": "plugin",
+        "gameVersion": "0.33",
+        "downloadUrl": "https://github.com/Talon-One-Fighter-Squadron/LAN/releases/download/V1.2/JoinLanButtonPlugin.dll",
+        "hash": null
+      }
+    ],
+    "downloadCount": 6
+  },
+  {
     "id": "kar",
     "displayName": "KAR",
     "description": " A comprehensive driveable ground vehicles mod, adding over 6 vehicles, ~50 weapons, and new mechanics.",
@@ -1323,7 +1356,7 @@
         }
       }
     ],
-    "downloadCount": 7211
+    "downloadCount": 7269
   },
   {
     "id": "klawshout_voice",
@@ -1360,6 +1393,39 @@
     "downloadCount": 0
   },
   {
+    "id": "KR-EW.67",
+    "displayName": "E/KR-67",
+    "description": "Adds the ability to host and join LAN games from the main menu without needing to execute commands via the CLI.",
+    "tags": [
+      "mod",
+      "flavor"
+    ],
+    "urls": [
+      {
+        "name": "info",
+        "url": "https://github.com/RudrNaik/NO-KREW-67"
+      }
+    ],
+    "authors": [
+      "RudrNaik"
+    ],
+    "githubOwner": "RudrNaik",
+    "githubRepoName": "NO-KREW-67",
+    "autoUpdateArtifacts": "True",
+    "artifacts": [
+      {
+        "fileName": "KR-EW.67.dll",
+        "version": "0.0.8",
+        "category": "release",
+        "type": "plugin",
+        "gameVersion": "0.33",
+        "downloadUrl": "https://github.com/RudrNaik/NO-KREW-67/releases/download/v0.0.8/KR-EW.67.dll",
+        "hash": null
+      }
+    ],
+    "downloadCount": 337
+  },
+  {
     "id": "LaserRocketFix",
     "displayName": "LaserRocketFix",
     "description": "This mod disables firing laser guided rockets at unlased targets. So for example chicane will only ever fire at a maximum of 4 targets, and only at those that it actually has line of sight to.",
@@ -1389,7 +1455,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 2157
+    "downloadCount": 2162
   },
   {
     "id": "LiveryManager",
@@ -1504,7 +1570,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 47
+    "downloadCount": 51
   },
   {
     "id": "LocalizationPatch.Belarusian",
@@ -2893,7 +2959,7 @@
         ]
       }
     ],
-    "downloadCount": 427
+    "downloadCount": 428
   },
   {
     "id": "LocalizationPatch.Spanish",
@@ -3327,7 +3393,7 @@
         "downloadUrl": "https://github.com/9138noms/NuclearOption-MFDVideoPlayer/releases/download/v2.0.0/MFDVideoPlayer.dll"
       }
     ],
-    "downloadCount": 663
+    "downloadCount": 664
   },
   {
     "id": "NO_Tactitools",
@@ -3503,7 +3569,7 @@
         ]
       }
     ],
-    "downloadCount": 8216
+    "downloadCount": 8222
   },
   {
     "id": "no-autopilot-mod",
@@ -3788,7 +3854,7 @@
         "hash": "sha256:f526584e61ed46c25d10a0b46319f9e901fc5917d73dfcccc3aebb5ee0acaa5c"
       }
     ],
-    "downloadCount": 7267
+    "downloadCount": 7272
   },
   {
     "id": "NO-MissionMenuSearch",
@@ -3874,7 +3940,7 @@
         ]
       }
     ],
-    "downloadCount": 2971
+    "downloadCount": 2972
   },
   {
     "id": "NOCursorOverride",
@@ -4014,7 +4080,7 @@
         ]
       }
     ],
-    "downloadCount": 1215
+    "downloadCount": 1217
   },
   {
     "id": "NOLiveryPlus",
@@ -4309,7 +4375,7 @@
         ]
       }
     ],
-    "downloadCount": 3795
+    "downloadCount": 3799
   },
   {
     "id": "Nuclear-Option-Mod-WingmanVisual",
@@ -4596,7 +4662,7 @@
         ]
       }
     ],
-    "downloadCount": 3653
+    "downloadCount": 3682
   },
   {
     "id": "RepairProgress",
@@ -4627,7 +4693,7 @@
         "downloadUrl": "https://github.com/9138noms/NuclearOption-RepairProgress/releases/download/v1.0.0/RepairProgress.zip"
       }
     ],
-    "downloadCount": 1548
+    "downloadCount": 1551
   },
   {
     "id": "RuntimeUnityEditor",
@@ -4660,7 +4726,7 @@
         "hash": "sha256:28596c0f68258f3e4d024c0ed89c8b5653fd86b1e619f945f9f7080ee6859734"
       }
     ],
-    "downloadCount": 119222
+    "downloadCount": 119225
   },
   {
     "id": "skyeye_voice",
@@ -4860,7 +4926,7 @@
         "downloadUrl": "https://github.com/9138noms/ThirdFaction/releases/download/v1.0.0/ThirdFaction.dll"
       }
     ],
-    "downloadCount": 993
+    "downloadCount": 994
   },
   {
     "id": "UnitCopyPaste",
@@ -4972,7 +5038,7 @@
         "downloadUrl": "https://github.com/9138noms/NuclearOption-VehicleControl/releases/download/v2.3.2/VehicleControl.zip"
       }
     ],
-    "downloadCount": 1886
+    "downloadCount": 1887
   },
   {
     "id": "WeatherController",
@@ -5003,7 +5069,7 @@
         "downloadUrl": "https://github.com/9138noms/NuclearOption-WeatherController/releases/download/v3.0.0/WeatherController_v3.0.0.zip"
       }
     ],
-    "downloadCount": 616
+    "downloadCount": 617
   },
   {
     "id": "WSOYappinator",
