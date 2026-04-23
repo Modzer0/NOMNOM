@@ -5404,5 +5404,38 @@
       }
     ],
     "downloadCount": 0
+  },
+  {
+    "id": "Better IR Missiles",
+    "displayName": "Better IR Missiles",
+    "description": "Gives IR missiles off boresight capability and head tracked launch.",
+    "tags": [
+      "mod",
+      "QoL"
+    ],
+    "urls": [
+      {
+        "name": "info",
+        "url": "https://github.com/Modzer0/BetterIR"
+      }
+    ],
+    "authors": [
+      "Modzer0"
+    ],
+    "githubOwner": "Modzer0",
+    "githubRepoName": "BetterIR",
+    "autoUpdateArtifacts": "True",
+    "artifacts": [
+      {
+        "fileName": "AIM9XMod.dll",
+        "version": "0.5.1",
+        "category": "release",
+        "type": "plugin",
+        "gameVersion": "0.33",
+        "downloadUrl": "https://github.com/Modzer0/BetterIR/releases/download/v0.5.1/AIM9XMod.dll",
+        "hash": "sha256:3df18768154a78ec908585c60eaa9f13343d6b7b48516c8c498204f8c4206f5a"
+      }
+    ],
+    "downloadCount": 0
   }
 ]
