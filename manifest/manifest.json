@@ -5338,5 +5338,137 @@
       }
     ],
     "downloadCount": 29
+  },
+  {
+    "id": "Superifrit KR-67X",
+    "displayName": "KR-67X Super Ifrit",
+    "description": "Scramjet equipped Ifrit. Need mach 4+ above 60k feet to activate.",
+    "tags": [
+      "mod",
+      "QoL"
+    ],
+    "urls": [
+      {
+        "name": "info",
+        "url": "https://github.com/Modzer0/NuclearOptionIfritMod"
+      }
+    ],
+    "authors": [
+      "Modzer0"
+    ],
+    "githubOwner": "Modzer0",
+    "githubRepoName": "NuclearOptionIfritMod",
+    "autoUpdateArtifacts": "True",
+    "artifacts": [
+      {
+        "fileName": "NuclearOptionIfritMod-v0.2.0.dll",
+        "version": "0.2.0",
+        "category": "release",
+        "type": "plugin",
+        "gameVersion": "0.33",
+        "downloadUrl": "https://github.com/Modzer0/NuclearOptionIfritMod/releases/download/v0.2.0/NuclearOptionIfritMod-v0.2.0.dll",
+        "hash": "sha256:9e315b0814c1933784544fad4a8a78c011f7d5664c4491b42a43a3d0279a69de"
+      }
+    ],
+    "downloadCount": 0
+  },
+  {
+    "id": "ActiveDecoy",
+    "displayName": "Active Decoy",
+    "description": "Decoy for radar guided missiles like the F-35 has.",
+    "tags": [
+      "mod",
+      "QoL"
+    ],
+    "urls": [
+      {
+        "name": "info",
+        "url": "https://github.com/Modzer0/NuclearOption-ActiveDecoy"
+      }
+    ],
+    "authors": [
+      "Modzer0"
+    ],
+    "githubOwner": "Modzer0",
+    "githubRepoName": "NuclearOption-ActiveDecoy",
+    "autoUpdateArtifacts": "True",
+    "artifacts": [
+      {
+        "fileName": "NuclearOptionActiveDecoy.dll",
+        "version": "0.6.0",
+        "category": "release",
+        "type": "plugin",
+        "gameVersion": "0.33",
+        "downloadUrl": "https://github.com/Modzer0/NuclearOption-ActiveDecoy/releases/download/v0.6.0/NuclearOptionActiveDecoy.dll",
+        "hash": "sha256:c175c67bcfe2fceb6d82a44fb9b9baeb5f8d27de403a6190e1360cfa3de2b6ab"
+      }
+    ],
+    "downloadCount": 0
+  },
+  {
+    "id": "Better IR Missiles",
+    "displayName": "Better IR Missiles",
+    "description": "Gives IR missiles off boresight capability and head tracked launch.",
+    "tags": [
+      "mod",
+      "QoL"
+    ],
+    "urls": [
+      {
+        "name": "info",
+        "url": "https://github.com/Modzer0/BetterIR"
+      }
+    ],
+    "authors": [
+      "Modzer0"
+    ],
+    "githubOwner": "Modzer0",
+    "githubRepoName": "BetterIR",
+    "autoUpdateArtifacts": "True",
+    "artifacts": [
+      {
+        "fileName": "AIM9XMod.dll",
+        "version": "0.7.0",
+        "category": "release",
+        "type": "plugin",
+        "gameVersion": "0.33",
+        "downloadUrl": "https://github.com/Modzer0/BetterIR/releases/download/v0.7.0/AIM9XMod.dll",
+        "hash": "sha256:021d280afe732fdc4d1199f3f1d7c8d2a583d88e3917a87fc0d298e58340c4fc"
+      }
+    ],
+    "downloadCount": 0
+  },
+  {
+    "id": "AB-4X",
+    "displayName": "An AB-4X that doesn't feel like a V6 minivan.",
+    "description": "Responsive thrust curve until you hit the afterburners then at altitude you can pass mach 3.",
+    "tags": [
+      "mod",
+      "QoL"
+    ],
+    "urls": [
+      {
+        "name": "info",
+        "url": "https://github.com/Modzer0/Alykon-Ab-4X"
+      }
+    ],
+    "authors": [
+      "Modzer0"
+    ],
+    "githubOwner": "Modzer0",
+    "githubRepoName": "Alykon-Ab-4X",
+    "autoUpdateArtifacts": "True",
+    "artifacts": [
+      {
+        "fileName": "AB4XMod_v0.5.0_QoL-Compatible.dll",
+        "version": "0.5.0",
+        "category": "release",
+        "type": "plugin",
+        "gameVersion": "0.33",
+        "downloadUrl": "https://github.com/Modzer0/Alykon-Ab-4X/releases/download/v0.5.0/AB4XMod_v0.5.0_QoL-Compatible.dll",
+        "hash": "sha256:605072d6f21d3bac38deb4e58bf99a0234a5b6cbf8fc974e8ac41421f3a5d6bb"
+      }
+    ],
+    "downloadCount": 0
   }
 ]
