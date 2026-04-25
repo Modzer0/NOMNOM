@@ -1,6 +1,6 @@
 {
   "id": "TargetEstimator",
-  "displayName": "TargetEstimator",
+  "displayName": "Target Estimator",
   "description": "Estimates the position of selected targets after datalink is lost, using dead reckoning (last known velocity x elapsed time). Aircraft get X cross marker + direction line + uncertainty circle (60s per selection). Ships get square marker + direction line. Ground vehicles get square marker snapped to nearest road point (recalculated every 2s). F10 to toggle.",
   "tags": [
     "mod"
